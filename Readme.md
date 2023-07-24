@@ -1,6 +1,6 @@
 ## Runner Game using Pygame and OOP
 
-![Runner Game](https://github.com/mukuliskul/Runner-game/graphics/player_stand.png)
+![Runner Game](https://github.com/mukuliskul/Runner-game/blob/main/graphics/player_stand.png)
 
 ### Description
 
